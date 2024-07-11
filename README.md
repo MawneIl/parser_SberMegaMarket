@@ -8,15 +8,15 @@
 
 ## Использование
 1. клонировать репозиторий
-```
+```bash
 git clone https://github.com/MawneIl/parser_SberMegaMarket.git
 ``` 
 2. перейти в корневую папку проекта используя GitBash
-```
+```bash
 cd parser_SberMegaMarket
 ```
 3. установить необходимые библиотеки из файла requirements.txt
-```
+```bash
 pip install requirements.txt
 ```
 5. открыть в редакторе файл main
